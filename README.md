@@ -3,7 +3,7 @@ maintainer: randomsort
 ---
 # Git Katas
 
-## Quick Start
+## Quick Start To Day 2
 
 ### In the Cloud
 
